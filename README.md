@@ -13,7 +13,7 @@ For classification, the logistic regression model can be used that includes all 
 
 ## Solution
 
-After applying logistic regression analysis, the the flights that are likely to be delayed are:
+Lift is a measure of the effectiveness of a predictive model calculated as the ratio between the results obtained with and without the predictive model (Cumulative gains and lift charts are visual aids for measuring model performance). After applying logistic regression analysis, we calculate the lift meassure:
 
 ![Alt text](https://github.com/niharikabalachandra/Logistic-Regression/blob/master/Regression.png?raw=true "K-means Clustering")
 
